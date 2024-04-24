@@ -6,7 +6,7 @@ This is a Netflix clone developed as part of a personal project. The project was
 - **Navigation**: The top navigation bar allows the user to explore different sections of the website, such as Home, Series, Movies, Bombando and My List.
 - **Featured Video**: The home page displays a featured video, with options to watch now or get more information about the content.
 - **Content Sliders**: The sliders at the bottom of the page present a selection of recommended content, including series, films and others.
-- 
+  
 # Authors ✍️
 
 CrazyH - Created API and Made it load actual movies
