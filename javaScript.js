@@ -2,7 +2,7 @@
 $(document).ready(function(){
     $(window).scroll(function(){
         var scroll = $(window).scrollTop();
-        if (scroll > 100) {
+        if (scroll > 15) {
           //background-color: rgb(20, 20, 20) !important;
           //background-image: linear-gradient(180deg,rgba(0,0,0,.7) 10%,transparent) !important;
 
