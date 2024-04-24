@@ -1,36 +1,36 @@
 # Netflix Clone 🍿
-Este é um clone do Netflix desenvolvido como parte de um projeto pessoal. O projeto foi construído utilizando HTML, CSS, JavaScript e Bootstrap. Abaixo estão alguns detalhes sobre como o site foi estruturado e algumas funcionalidades-chave. **(O responsivo está sendo desenvolvido)**.
+This is a Netflix clone developed as part of a personal project. The project was built using HTML, CSS, JavaScript and Bootstrap. Below are some details about how the site was structured and some key features. **(Responsive is being developed)**.
 
-# Funcionalidades Principais ⚙️
-- **Página de Login**: O usuário é redirecionado para a página de login, onde pode inserir seu email ou número de telefone e senha para acessar a plataforma. Ao clicar no botão "Entrar" você é redirecionado(a) para navegação.
-- **Navegação**: A barra de navegação superior permite que o usuário explore diferentes seções do site, como Início, Séries, Filmes, Bombando e Minha Lista.
-- **Vídeo em Destaque**: A página inicial exibe um vídeo em destaque, com opções para assistir agora ou obter mais informações sobre o conteúdo.
-- **Sliders de Conteúdo**: Os sliders na parte inferior da página apresentam uma seleção de conteúdo recomendado, incluindo séries, filmes e outros.
+# Main Features ⚙️
+- **Login Page**: The user is redirected to the login page, where they can enter their email or phone number and password to access the platform. When you click on the "Enter" button you are redirected to navigation.
+- **Navigation**: The top navigation bar allows the user to explore different sections of the website, such as Home, Series, Movies, Bombando and My List.
+- **Featured Video**: The home page displays a featured video, with options to watch now or get more information about the content.
+- **Content Sliders**: The sliders at the bottom of the page present a selection of recommended content, including series, films and others.
 
-# Como Acessar 📺
-O projeto está hospedado no Vercel e pode ser acessado [aqui](https://netflixo-ivory.vercel.app/).
+# How to Access 📺
+The project is hosted on Vercel and can be accessed [here](https://netflixo-ivory.vercel.app/).
 
-# Visualizações 🎞️
-**Página de Login**
+# Views 🎞️
+**Login Page**
 
 ![img](https://imgur.com/AwpJHo7.jpg)
 
-**Página Inicial** 
+**Home page**
 
 
 ![img](https://imgur.com/RizNPmP.jpg)
 
-**Slides dos filmes**
+**Film slides**
 
 
 ![img](https://imgur.com/K8GFPu9.jpg)
 
-**Vídeo demonstração**
+**Video demonstration**
 
 https://github.com/pamyszz/netflixo/assets/153380356/53957106-9233-4f3a-b278-acbf375f3a56
 
-# Autores ✍️
+# Authors ✍️
 
-Pamela Miranda - Desenvolvedora Frontend e UI/UX Designer
+Pamela Miranda - Frontend Developer and UI/UX Designer
 
-## Divirta-se com o projeto 🚀
+## Have fun with the project 🚀
