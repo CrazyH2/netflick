@@ -3,7 +3,11 @@ $(document).ready(function(){
     $(window).scroll(function(){
         var scroll = $(window).scrollTop();
         if (scroll > 100) {
-          $(".netflix-navbar").css("background" , "#0C0C0C");
+          //background-color: rgb(20, 20, 20) !important;
+          //background-image: linear-gradient(180deg,rgba(0,0,0,.7) 10%,transparent) !important;
+
+          $(".netflix-navbar").css("background-color" , "rgb(20, 20, 20) !important");
+          $(".netflix-navbar").css("background-image" , "linear-gradient(180deg,rgba(0,0,0,.7) 10%,transparent) !important");
         }
   
         else{
