@@ -6,8 +6,8 @@ $(document).ready(function(){
           //background-color: rgb(20, 20, 20) !important;
           //background-image: linear-gradient(180deg,rgba(0,0,0,.7) 10%,transparent) !important;
 
-          $(".netflix-navbar").css("background-color" , "rgb(20, 20, 20) !important");
-          $(".netflix-navbar").css("background-image" , "linear-gradient(180deg,rgba(0,0,0,.7) 10%,transparent) !important");
+          $(".netflix-navbar").css("background-color" , "rgb(20, 20, 20)");
+          $(".netflix-navbar").css("background-image" , "linear-gradient(180deg,rgba(0,0,0,.7) 10%,transparent)");
         }
   
         else{
