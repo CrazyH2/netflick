@@ -97,13 +97,13 @@ i{
 
 .netflix-nav button{
     background-color: transparent;
-    color: rgba(255, 255, 255, 0.623);
+    color: #e5e5e5;
     border: none;
-    font-size: 13px;
+    font-size: 14px;
 }
 
 .netflix-nav button:hover{
-    color: #fff;
+    color: #b3b3b3;
 }
 
 
