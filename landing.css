@@ -355,7 +355,7 @@ ul{
 @media (min-width: 1280px) {
    .netflix-home-video .content .left img {
         width: 500px;
-        margin-top: 330px !important;
+        margin-top: 260px !important;
     }
     .slider {
         position: relative;
