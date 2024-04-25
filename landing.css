@@ -155,7 +155,7 @@ i{
 }
 
 .netflix-home-video .content .left{
-    margin-left: 80px;
+    margin-left: 64px;
 }
 .netflix-home-video .content .left img{
    margin-top: 190px;
@@ -167,7 +167,8 @@ i{
 
 
 .slider-box {
- margin-top: 45px;
+    margin-left: 64px;
+    margin-top: 45px;
 }
 
 .slider{
