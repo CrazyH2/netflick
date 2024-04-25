@@ -124,6 +124,7 @@ i{
     cursor: pointer;
 }
 .netflix-nav{
+    margin-left: 2px;
     margin-top: 5px;
     display: block;
     align-items: center;
@@ -132,7 +133,7 @@ i{
 .netflix-nav button{
     letter-spacing: 0.02em;
     font-family: "Netflix Sans", "Helvetica Neue", "Segoe UI", Roboto, Ubuntu, sans-serif;
-    margin-left: 20px;
+    margin-left: 18px;
     background-color: transparent;
     color: #e5e5e5;
     border: none;
