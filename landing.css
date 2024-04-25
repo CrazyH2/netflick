@@ -5,7 +5,34 @@ body {
     width: 100vw;
     margin: 0;
     padding: 0;
+}
 
+@font-face {
+    font-display: optional;
+    font-family: Netflix Sans;
+    font-weight: 300;
+    src: url(./fonts/NetflixSans-Light.woff2) format("woff2"), url(./fonts/NetflixSans-Light.oft) format("oft")
+}
+
+@font-face {
+    font-display: optional;
+    font-family: Netflix Sans;
+    font-weight: 400;
+    src: url(./fonts/NetflixSans-Regular.woff2) format("woff2"), url(./fonts/NetflixSans-Regular.otf) format("oft")
+}
+
+@font-face {
+    font-display: optional;
+    font-family: Netflix Sans;
+    font-weight: 500;
+    src: url(./fonts/NetflixSans-Medium.woff2) format("woff2"), url(./fonts/NetflixSans-Medium.otf) format("oft")
+}
+
+@font-face {
+    font-display: optional;
+    font-family: Netflix Sans;
+    font-weight: 700;
+    src: url(./fonts/NetflixSans-Bold.woff2) format("woff2"), url(./fonts/NetflixSans-Bold.oft) format("oft")
 }
 
 .netflix-padding-left{
