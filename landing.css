@@ -129,6 +129,7 @@ i{
 }
 
 .netflix-nav button{
+    font-family: "Netflix Sans", "Helvetica Neue", "Segoe UI", Roboto, Ubuntu, sans-serif;
     margin-left: 20px;
     background-color: transparent;
     color: #e5e5e5;
@@ -191,7 +192,8 @@ i{
     font-size: 17px;
     font-weight: 500;
     padding-left: 21px;
-    padding-right: 26px
+    padding-right: 26px;
+    font-family: "Netflix Sans", "Helvetica Neue", "Segoe UI", Roboto, Ubuntu, sans-serif;
 }
 .netflix-home-video .content .left div button i{
     width: 25px;
