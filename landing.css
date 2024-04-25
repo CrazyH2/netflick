@@ -30,6 +30,12 @@ body {
     width: 94px;
 }
 
+.navbar .netflix-row .search-icon {
+    color: #fff;
+    padding: 5px 20px;
+    width: 20px;
+}
+
 .netflix-row{
     width: 100%;
     display: flex;
