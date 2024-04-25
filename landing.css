@@ -159,7 +159,16 @@ i{
 }
 .netflix-home-video .content .left img{
    margin-top: 190px;
-   
+}
+.netflix-home-video .content .left div button{
+    font-size: 17px;
+    font-weight: 500;
+    padding-left: 21px;
+    padding-right: 26px
+}
+.netflix-home-video .content .left div button i{
+    width: 25px;
+    height: 25px;
 }
 .netflix-home-video .content .right{
     width: 50%;
