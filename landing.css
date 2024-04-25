@@ -129,6 +129,7 @@ i{
 }
 
 .netflix-nav button{
+    letter-spacing: 0.02em;
     font-family: "Netflix Sans", "Helvetica Neue", "Segoe UI", Roboto, Ubuntu, sans-serif;
     margin-left: 20px;
     background-color: transparent;
