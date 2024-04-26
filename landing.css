@@ -363,7 +363,7 @@ ul{
 
 @media (max-width: 320px) {
     .d-flex {
-        margin-top: -15px;
+        margin-top: -15px !important;
     }
     p {
         font-size: 0.8rem;
@@ -376,7 +376,7 @@ ul{
         font-size: 1.5rem;
     }
     .d-flex {
-        margin-top: 4px;
+        margin-top: 5px !important;
         margin-bottom: 5px;
     }
 
