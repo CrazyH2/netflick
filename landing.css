@@ -205,6 +205,9 @@ i{
 .netflix-home-video .content .left div button:nth-child(1):hover{
     background-color: rgba(255, 255, 255, 0.75);
 }
+.netflix-home-video .content .left div button:nth-child(2){
+    background-color: rgba(109, 109, 110, 0.7);
+}
 .netflix-home-video .content .left div button:nth-child(2):hover{
     background-color: rgba(109, 109, 110, 0.4);
 }
