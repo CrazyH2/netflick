@@ -195,6 +195,7 @@ i{
    margin-top: 190px;
 }
 .netflix-home-video .content .left div button{
+    height: 43px;
     border: 0;
     font-size: 17px;
     font-weight: 500;
