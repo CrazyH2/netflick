@@ -153,6 +153,7 @@ i{
 
 
 .netflix-home-video{
+    height: 715px;
     width: 100%;
     z-index: 10;
     position: relative;
